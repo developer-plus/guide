@@ -4,7 +4,7 @@ developer-plus 开源指南，新人必读。
 
 ## developer-plus 的故事
 
-- [为什么叫 `developer-plus`？](./why-the-name.md)
+- [为什么叫 developer-plus？](./why-the-name.md)
 
 ## 参与贡献
 

@@ -1,3 +1,3 @@
-# 为什么叫 `developer-plus`？
+# 为什么叫 developer-plus？
 
 
