@@ -28,4 +28,4 @@
 
 ## 最后
 
-org 名称定位 developer-plus 就这样确定了。
+组织名称为 developer-plus 就这样确定了。
