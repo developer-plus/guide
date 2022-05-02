@@ -22,9 +22,9 @@
 
 > 开发者之上，源于开发者，服务于开发者。
 
-[聊天截图](https://github.com/developer-plus/.github/blob/main/name-origin-1.jpg)
+[聊天截图](https://github.com/developer-plus/static/blob/main/name-origin-1.jpg)
 
-我还专门找英语系朋友，给我强行解释了一波。[聊天截图](https://github.com/developer-plus/.github/blob/main/name-origin-2.jpg)
+我还专门找英语系朋友，给我强行解释了一波。[聊天截图](https://github.com/developer-plus/static/blob/main/name-origin-2.jpg)
 
 ## 最后
 
