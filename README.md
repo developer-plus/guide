@@ -15,19 +15,6 @@ developer-plus 贡献指南。
 - [如何写好文档？](https://github.com/ruanyf/document-style-guide)
 - [如何关闭邮件消息？](./close-mail-message.md)
 
-
-<details>
-<summary>如何写好文档？</summary>
-
-前往 [Notification settings](https://github.com/settings/notifications)，然后修改 `Participating`、`Watching` 为 `Web and Mobile`。
-</details>
-
-<details>
-<summary>如何关闭邮件消息？</summary>
-
-前往 [Notification settings](https://github.com/settings/notifications)，然后修改 `Participating`、`Watching` 为 `Web and Mobile`。
-</details> 
-
 ## LICENSE
 
 MIT, made with 💗.
