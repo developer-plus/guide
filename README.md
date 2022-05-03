@@ -4,7 +4,7 @@ developer-plus 贡献指南。
 
 ## 故事
 
-- [为什么叫 developer-plus？](./why-the-name.md)
+- [为什么叫 developer-plus？](https://github.com/developer-plus/guide/wiki/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AB-developer-plus%EF%BC%9F)
 
 ## 参与贡献
 
