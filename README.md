@@ -1,6 +1,6 @@
-# open-source-guide
+# guide
 
-developer-plus 开源指南，新人必读。
+developer-plus 贡献指南，新人必读。
 
 ## 故事
 
