@@ -13,6 +13,7 @@ developer-plus 贡献指南，新人必读。
 - [如何提交 PR？](./how-to-submit-pr.md)
 - [如何成为组织成员？](./become-org-member.md)
 - [如何写好文档？](https://github.com/ruanyf/document-style-guide)
+- [如何关闭邮件消息？](./close-mail-message.md)
 
 ## LICENSE
 
