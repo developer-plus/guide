@@ -1,6 +1,6 @@
 # guide
 
-developer-plus 贡献指南，新人必读。
+developer-plus 贡献指南。
 
 ## 故事
 
